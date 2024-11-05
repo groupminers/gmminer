@@ -1,2 +1,2 @@
 # gmminer
-The mining tools for Group Miners
+***Group Miner has not been launched yet. Mining using available tools will not pay you the mining rewards.***
